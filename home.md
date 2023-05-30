@@ -2,7 +2,7 @@
 title: EDIS KVM Management panel
 description: A short list of available features of EDIS Global KVM VPS Management dashboard.
 published: true
-date: 2023-05-30T19:09:03.551Z
+date: 2023-05-30T19:18:28.542Z
 tags: kvm
 editor: markdown
 dateCreated: 2023-05-29T13:25:19.705Z
