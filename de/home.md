@@ -2,7 +2,7 @@
 title: EDIS KVM Management panel
 description: Eine Kurze Liste der Funktionen des VPS Panels
 published: true
-date: 2023-05-30T19:24:59.940Z
+date: 2023-06-02T21:44:23.514Z
 tags: kvm, controlpanel
 editor: markdown
 dateCreated: 2023-05-30T19:24:59.940Z
@@ -35,5 +35,5 @@ Hier ist eine kurze Liste der verfügbaren Funktionen:
 - Traffic-Pool-Management (Pool aufladen, Traffic zu KVM zuweisen)
 - API-Zugriff für jede einzelne Funktion
 - Die Support-PIN Ihres Servers
-
+![bildschirm­foto_2023-06-02_um_10.42.14.png](/bildschirm­foto_2023-06-02_um_10.42.14.png)
 ![edis_kvm.png](/edis_kvm.png)
